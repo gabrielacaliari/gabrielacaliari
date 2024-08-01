@@ -1,8 +1,7 @@
-### Bem-vindo ao meu repositório 😎
+### Bem-vindo ao meu repositório 😋😎
 
+- Atualmente estou no 1° ano do ensino médio, na  Escola Izabel de Almeida Marin;
+- Estou trabalhando em projetos de **JavaScript** e **HTML** no **P5JS** 🖥🕹;
+- Para qualquer dúvida ou contato, me envie um e-mail *gcaliari@prof.educacao.sp.gov.br* 💌❤
 
-- Sou professora da Escola Izabel de Almeida Marin, atuando no Ensino Médio no ensino de Tecnologia e Robótica.
-- Atualmente trabalhamos com **JavaScript** e **HTML** na plataforma P5JS 💻;
-- Para contato email: _gcaliari@prof.educacao.sp.gov.br_ 💌.
-
- ![](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
+![](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
